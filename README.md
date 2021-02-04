@@ -1,6 +1,6 @@
 # Skilvul x Tokopedia Webinar by Helena N
 
-TokoApp is mock of Shop Page, inspired by Tokopedia's Shop Page design. The branch master contains the starter-kit of this app, and branch production will have the final result of this project.
+TokoApp is mock of Shop Page, inspired by Tokopedia's Shop Page design. The branch `master` contains the starter-kit of this app, and branch `helen/finalresult` will have the final result of this project.
 
 © Helena Natanael, 2021
 

@@ -12,7 +12,7 @@ export const shopShowcaseData = [
   'Diskon',
   'Produk Terjual',
   'Di Rumah Aja Dulu',
-  'Tokopedia x Skilvul',
+  'Tokopedia x dibimbing.id',
   'WIB',
   'Tokopedia Universe',
 ];
